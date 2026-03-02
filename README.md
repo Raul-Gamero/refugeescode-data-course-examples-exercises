@@ -48,6 +48,18 @@ Topic                                     |Content                              
 | [link](content/3-Descriptive%20&%20Inferential%20Statistics/05_ab_testing_business.ipynb)          | A/B testing business
 | [link](content/3-Descriptive%20&%20Inferential%20Statistics/06_mini_project_experiment.ipynb)          | Mini project experiment 
 
+
+### DATA CLEANING & TRANSFORMATION
+
+Topic                                     |Content                                                        |
+| ---------------------------------------------- | --------------------------------------------------------------------|
+| [link](content/4-Data_Cleaning_&_Transformation/01_dealing_with_missing_data.ipynb)           | Dealing with Missing Data               |
+| [link](content/4-Data_Cleaning_&_Transformation/02_detecting_handling_outliers.ipynb)           | Detecting and Handling Outliers                       |
+| [link](content/4-Data_Cleaning_&_Transformation/03_type_conversion_datetime.ipynb)          | Type Conversion & Date/Time Formats        |                     |
+| [link](content/4-Data_Cleaning_&_Transformation/04_text_cleaning_manipulation.ipynb)          | Text Cleaning & Manipulation
+| [link](content/4-Data_Cleaning_&_Transformation/05_feature_engineering_basics.ipynb)          | Feature Engineering Basics
+| [link](content/4-Data_Cleaning_&_Transformation/06_mini_project_data_cleaning.ipynb)          | Mini-Project: HR Data Cleaning & Transformation
+
 # Welcome to the MFR Data Analytics Program
 
 Welcome to an intensive, hands-on journey into the world of data analytics. This comprehensive program is designed to transform you into a skilled data analyst capable of extracting meaningful insights from complex datasets and communicating them effectively to drive business decisions.
