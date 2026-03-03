@@ -35,7 +35,30 @@ Topic                                     |Content                              
 | [link](content/2-Data_Analysis/numpy.ipynb)           | NumPy                     |
 | [link](content/2-Data_Analysis/pandas.ipynb)           | Pandas                        |
 | [link](content/2-Data_Analysis/reading_writing_files.ipynb)          | Reading and writing files               |                     |
-| [link](content/2-Data_Analysis/virtual%20environments.ipynb)          | Virtual environments               |                     
+| [link](content/2-Data_Analysis/virtual%20environments.ipynb)          | Virtual environments               |   
+
+### DESCRIPTIVE & INFERENTIAL STATISTICS
+
+Topic                                     |Content                                                        |
+| ---------------------------------------------- | --------------------------------------------------------------------|
+| [link](content/3-Descriptive%20&%20Inferential%20Statistics/01_central_tendency_dispersion.ipynb)           | Central tendency dispersion                   |
+| [link](content/3-Descriptive%20&%20Inferential%20Statistics/02_normal_distribution_zscores.ipynb)           | normal distribution zscores                       |
+| [link](content/3-Descriptive%20&%20Inferential%20Statistics/03_probability_sampling.ipynb)          | probability sampling            |                     |
+| [link](content/3-Descriptive%20&%20Inferential%20Statistics/04_hypothesis_testing.ipynb)          | Hypothesis testing
+| [link](content/3-Descriptive%20&%20Inferential%20Statistics/05_ab_testing_business.ipynb)          | A/B testing business
+| [link](content/3-Descriptive%20&%20Inferential%20Statistics/06_mini_project_experiment.ipynb)          | Mini project experiment 
+
+
+### DATA CLEANING & TRANSFORMATION
+
+Topic                                     |Content                                                        |
+| ---------------------------------------------- | --------------------------------------------------------------------|
+| [link](content/4-Data_Cleaning_&_Transformation/01_dealing_with_missing_data.ipynb)           | Dealing with Missing Data               |
+| [link](content/4-Data_Cleaning_&_Transformation/02_detecting_handling_outliers.ipynb)           | Detecting and Handling Outliers                       |
+| [link](content/4-Data_Cleaning_&_Transformation/03_type_conversion_datetime.ipynb)          | Type Conversion & Date/Time Formats        |                     |
+| [link](content/4-Data_Cleaning_&_Transformation/04_text_cleaning_manipulation.ipynb)          | Text Cleaning & Manipulation
+| [link](content/4-Data_Cleaning_&_Transformation/05_feature_engineering_basics.ipynb)          | Feature Engineering Basics
+| [link](content/4-Data_Cleaning_&_Transformation/06_mini_project_data_cleaning.ipynb)          | Mini-Project: HR Data Cleaning & Transformation
 
 # Welcome to the MFR Data Analytics Program
 
